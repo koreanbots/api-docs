@@ -2,7 +2,7 @@
 
 자신의 봇의 정보를 업데이트하거나 불러오는 엔드포인트들입니다.
 
-## |POST| /bots/servers
+## <method>POST</method> /bots/servers
 
 ### 해더
 
