@@ -4,7 +4,7 @@
 
 <h2><method class="post">POST</method> /bots/servers</h2>
 
-### 헤더
+### 헤더 (Header)
 
 | 헤더 | 값 |
 | ----| ---|
@@ -33,9 +33,9 @@
 | ------| -----|
 | id    | 확인할 유저 ID |
 
-### 해더
+### 헤더 (Header)
 
-| 해더 | 값 |
+| 헤더 | 값 |
 | ----| ---|
 | token        | KOREANBOTS 토큰  |
 
