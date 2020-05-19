@@ -2,7 +2,7 @@
 
 자신의 봇의 정보를 업데이트하거나 불러오는 엔드포인트들입니다.
 
-## <method>POST</method> /bots/servers
+## <method class="post">POST</method> /bots/servers
 
 ### 해더
 
@@ -25,7 +25,7 @@
 - `message?`: string | Object
   - 오류 메세지입니다.
 
-## |GET| /bots/voted/:id
+## <method class="get">GET</method> /bots/voted/:id
 
 ### 매개변수
 
