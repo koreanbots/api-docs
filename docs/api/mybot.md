@@ -4,9 +4,9 @@
 
 <h2><method class="post">POST</method> /bots/servers</h2>
 
-### 해더
+### 헤더
 
-| 해더 | 값 |
+| 헤더 | 값 |
 | ----| ---|
 | Content-Type | application/json |
 | token        | KOREANBOTS 토큰  |
