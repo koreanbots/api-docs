@@ -6,13 +6,13 @@
 
 모든 API의 기본 URL입니다.
 
-###### Base URL: https://koreanbots.dev
+###### Base URL: https://api.koreanbots.dev
 
 모든 엔드포인트의 요청은 이곳으로 보내게됩니다.
 
 ## 레이트리밋
 
-<info> 레이트리밋(RateLimit)은 로그인 토큰 기준이 아닌, IP 기준으로 적용됩니다. \n 레이트리밋은 클라이언트와 동일 IP로 접속할 경우 공유하게 됩니다.</info>
+<div class="ui warn message"> 레이트리밋(RateLimit)은 로그인 토큰 기준이 아닌, IP 기준으로 적용됩니다. \n 레이트리밋은 클라이언트와 동일 IP로 접속할 경우 공유하게 됩니다.</div>
 
 효율적인 리소스 관리를 위해 일정시간의 요청 제한 시간입니다.
 
