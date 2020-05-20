@@ -57,11 +57,11 @@
 - `boosted`: boolean
   - 봇의 부스트 특전 여부
 - `vanity`: string|false
-  - 봇의 VANITY URL [해당 항목은 `boosted` 항목이 허용되어있는 경우에만 적용됩니다.]
+  - 봇의 VANITY URL (해당 항목은 `boosted` 항목이 허용되어있는 경우에만 적용됩니다)
 - `banner`: string|false
-  - 봇의 배너 링크 (미리보기 배경) [해당 항목은 `boosted` 항목이 허용되어있는 경우에만 적용됩니다.]
+  - 봇의 배너 링크 (미리보기 배경) (해당 항목은 `boosted` 항목이 허용되어있는 경우에만 적용됩니다)
 - `bg`: string|false
-  - 봇의 배경 링크 (세부설명 배경) [해당 항목은 `boosted` 항목이 허용되어있는 경우에만 적용됩니다.]
+  - 봇의 배경 링크 (세부설명 배경) (해당 항목은 `boosted` 항목이 허용되어있는 경우에만 적용됩니다)
 
 <h3 id="category">Category: Enum</h3>
 
