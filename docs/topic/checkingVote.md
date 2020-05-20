@@ -35,8 +35,8 @@ Console.WriteLine(res.Content);
 from requests import get
 BASEURL = "https://api.koreanbots.dev"
 token = "KOREANBOTS 토큰"
-userID = 'ID'
+userID = 'ID' # int or str
 
-response = get(BASEURL+f'/bots/voted/{userID}', headers={"token":token})
+response = get(f'{BASEURL}/bots/voted/{userID}', headers={"token":token})
 print(response.json())
 ```
