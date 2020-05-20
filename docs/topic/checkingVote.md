@@ -28,3 +28,15 @@ Request.AddHeader("token", token);
 var res = Client.Execute(Request);
 Console.WriteLine(res.Content);
 ```
+
+## Python3
+
+```py
+from requests import get
+BASEURL = "https://api.koreanbots.dev"
+token = "KOREANBOTS 토큰"
+userID = 'ID'
+
+response = get(BASEURL+f'/bots/voted/{userID}', headers={"token":token})
+print(response.json())
+```
