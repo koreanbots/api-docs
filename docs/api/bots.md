@@ -16,7 +16,7 @@
 
 - `code`: 200
   - 반환값 코드입니다. (`message`를 확인하시면 오류 내용을 보실 수 있습니다.)
-- `data`: [Bot](#bot-object)
+- `data`: [Bot](#bot)
   - 반환되는 봇들입니다.
 - `totalPage`
   - 전체 페이지 수
@@ -25,7 +25,7 @@
 
 ## 타입
 
-### Bot: Object
+<h3 id="bot">Bot: Object</h3>
 
 #### Properties
 
@@ -43,7 +43,7 @@
   - 봇의 세부 설명
 - `url`: string|false
   - 봇의 초대링크
-- `category`: [Category](#category-enum)[]
+- `category`: [Category](#category)[]
   - 봇의 카테고리
 - `tag`: string
   - 봇의 태그
@@ -63,7 +63,7 @@
 - `bg`: string|false
   - 봇의 배경 링크 (세부설명 배경) [해당 항목은 `boosted` 항목이 허용되어있는 경우에만 적용됩니다.]
 
-### Category: Enum
+<h3 id="category">Category: Enum</h3>
 
 - `관리`
 - `뮤직`
