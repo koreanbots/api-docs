@@ -8,7 +8,7 @@
 
 행운을 빕니다 XD
 
-- KOREANBOTS 관리진 일동 -
+\- KOREANBOTS 관리진 일동 -
 
 ## 도움받기
 
