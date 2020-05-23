@@ -11,7 +11,7 @@ const token = 'KOREANBOTS 토큰'
 const userID = 'ID'
 
 fetch(BASEURL + '/bots/voted/' + userID, { headers: { token } })
-.then(r=> console.log(r.json())
+.then(r=> r.json()).then(r=> console.log(r))
 .catch(e=> console.error(e))
 ```
 
