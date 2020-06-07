@@ -15,7 +15,7 @@ fetch(BASEURL + '/bots/voted/' + userID, { headers: { token } })
 .catch(e=> console.error(e))
 ```
 
-## C\#
+## Cⵌ
 
 ```cs
 Uri BASEURL = new Uri("https://api.koreanbots.dev");

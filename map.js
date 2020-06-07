@@ -12,6 +12,11 @@ module.exports = [
                 id: "api",
                 name: "API",
                 path: "/docs/main/api.md"
+            },
+            {
+                id: "sdk",
+                name: "언어별 SDK",
+                path: "/docs/main/sdk.md"
             }
         ]
     },
@@ -39,6 +44,11 @@ module.exports = [
                 id: "checkingVote",
                 name: "유저 투표 여부 확인하기",
                 path: "/docs/topic/checkingVote.md"
+            },
+            {
+                id: "updateServer",
+                name: "봇 서버 수 업데이트하기",
+                path: "/docs/topic/updateServer.md"
             }
         ]
     }
