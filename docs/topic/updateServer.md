@@ -37,6 +37,9 @@ BASEURL = "https://api.koreanbots.dev"
 token = "KOREANBOTS 토큰"
 serverCount = 100 # 서버 수
 
-response = post(f'{BASEURL}/bots/servers', headers={"token":token, "Content-Type": "application/json"}, data={"servers": serverCount})
+response = post(f'{BASEURL}/bots/servers', 
+  headers={"token":token, "Content-Type": "application/json"},
+  json={"servers": serverCount}
+)
 print(response.json())
 ```
