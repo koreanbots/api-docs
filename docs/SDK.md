@@ -18,8 +18,12 @@ API 링크로 요청하는 대신, SDK를 사용하시면 더 간편하게 사�
 
 ## Kotlin (Java)
 
-[Github](https://github.com/JellyBrick/Koreanbots-Kotlin-SDK)
+[Koreanbots-Kotlin-SDK](https://github.com/JellyBrick/Koreanbots-Kotlin-SDK)
 
 ## Rust
 
-[Github](https://github.com/AkiaCode/Koreanbots.rs)
+[Koreanbots.rs](https://github.com/AkiaCode/Koreanbots.rs)
+
+## Go
+
+[gokoreanbots](https://github.com/gokoreanbots/gokoreanbots)
