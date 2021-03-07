@@ -1,6 +1,6 @@
 # 언어별 SDK
 
-API 링크로 요청하는 대신, SDK를 사용하시면 더 간편하게 사용하실 수 있습니다.
+<message type="info">API 링크로 요청하는 대신, SDK를 사용하시면 더 간편하게 사용하실 수 있습니다.</message>
 
 ## Javascript
 
