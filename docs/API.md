@@ -20,7 +20,7 @@ API 요청을 보낼 때는 다음과 같이 사용합니다.
 `https://koreanbots.dev/api/{version}`
 
 <message type="info">
-  v2 버전의 API를 사용해주세요.
+  `v2` 버전의 API를 사용해주세요.
 </message>
 
 | 버전     | 상태   |
