@@ -17,6 +17,14 @@
   본인이 제작한 라이브러리가 있으시다면 이곳에 추가하실 수 있습니다. 문의해주세요!
 </message>
 
+## Python(DBKRPY)
+
+[PYPI](https://pypi.org/project/dbkrpy/) [GitHub](https://github.com/SaidBySolo/DBKR-API-Python)
+
+## C#
+
+[NuGet](https://www.nuget.org/packages/DBKR-SDK) [GitHub](https://github.com/ReDesignedJP/DBKR-SDK)
+
 ## Kotlin (Java)
 
 [Koreanbots-Kotlin-SDK](https://github.com/JellyBrick/Koreanbots-Kotlin-SDK)
