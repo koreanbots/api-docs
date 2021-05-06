@@ -27,4 +27,4 @@
 
 ## Go
 
-[gokoreanbots](https://github.com/gokoreanbots/gokoreanbots)
+[gokoreanbots](https://github.com/simsimler/gokoreanbots)
