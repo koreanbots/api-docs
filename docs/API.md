@@ -54,4 +54,4 @@ API 요청을 보낼 때는 다음과 같이 사용합니다.
 | x-ratelimit-limit | 해당 엔드포인트에서 허용되는 요청 횟수입니다. |
 | x-ratelimit-remaining | 남은 요청 가능 횟수입니다. |
 | x-ratelimit-reset | 횟수 카운트가 리셋되는 시간입니다. |
-| x-ratelimit-global | 레이트리밋 헤더가 라우트별이 아닌 글로벌 레이트 리밋임을 의미하는지를 나타냅니다. |
+| x-ratelimit-global | 레이트리밋 헤더가 라우트별이 아닌 글로벌 레이트리밋임을 의미하는지를 나타냅니다. |
