@@ -17,7 +17,7 @@ https://koreanbots.dev/api
 ## 버전
 
 API 요청을 보낼 때는 다음과 같이 사용합니다.
-`https://koreanbots.dev/api/{version}`
+`https://koreanbots.dev/api/v{version}`
 
 <message type="info">
   `v2` 버전의 API를 사용해주세요.
@@ -25,9 +25,9 @@ API 요청을 보낼 때는 다음과 같이 사용합니다.
 
 | 버전     | 상태   |
 |---------|-------|
-|   v2    |사용 가능|
-|   v1    |지원 종료|
-|   v0    |사용 불가|
+|   2    |사용 가능|
+|   1    |지원 종료|
+|   0    |사용 불가|
 
 <h2 id="ratelimit">레이트리밋</h2>
 
