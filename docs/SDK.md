@@ -28,3 +28,7 @@
 ## Go
 
 [gokoreanbots](https://github.com/simsimler/gokoreanbots)
+
+## C#
+
+[SharpKoreanBots]( https://github.com/csnewcs/SharpKoreanBots)
